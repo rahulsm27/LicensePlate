@@ -1,0 +1,12 @@
+super-gradients
+cython
+torch
+
+OpenCV2
+
+numpy
+pytorch
+pandas
+tensorflow
+
+#conda install -c conda-forge pycocotools
